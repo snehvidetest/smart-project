@@ -10,10 +10,13 @@ Sub Main_test_forms()
 
 '~~~~~~~~~~~~~~~~I've added this comment to demonstrate Githubs version control!'~~~~~~~~~~~~~~~~
 
+'----------------Here's a new comment!--------------
+'hmmm...
+
 '    Application.ScreenUpdating = False
     Dim wb As Workbook, wks As Worksheet
     
-'~~~~~~~~~~~~~~~~Bonus comment to check Github!'~~~~~~~~~~~~~~~~
+'~~~~~~~~~~~~~~~~I've now replaced the comment with this!~~~~~~~~~~~~~~~~
     
     workbookName = "FF_Spgskema_TC_main.xlsm"               'Name of test workbook
     worksheetName = "FF - Test Design"                      'Name of sheet with testcases
